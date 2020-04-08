@@ -1,2 +1,2 @@
 # UDP STREAMING con multicastig
-Client/Server UDP multicasting VIDEOS
+Client/Server UDP multicasting Text Files.
